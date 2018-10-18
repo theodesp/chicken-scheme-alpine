@@ -1,8 +1,8 @@
-FROM alpine:3.6
+FROM alpine:latest
 MAINTAINER thdespou@hotmail.com
 
 # Configurations.
-ENV CHICKEN_VERSION 4.12.0
+ENV CHICKEN_VERSION 4.13.0
 ENV PLATFORM linux
 
 # Install Packages
