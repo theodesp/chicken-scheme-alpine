@@ -1,5 +1,4 @@
 FROM alpine:latest
-MAINTAINER thdespou@hotmail.com
 
 # Configurations.
 ENV CHICKEN_VERSION 4.13.0
